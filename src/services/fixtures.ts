@@ -42,5 +42,5 @@ export default class Fixtures{
       lastName: 'Simpson',
       email: 'marge@simpson.com',
       password: 'secret',
-    })
+    });
 }
