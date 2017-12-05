@@ -26,6 +26,13 @@ export class Home {
         nav: true,
         title: 'Logout',
       },
+      {
+        route: 'candidates',
+        name: 'candidates',
+        moduleId: 'components/candidates',
+        nav: true,
+        title: 'Candidates',
+      },
     ]);
     this.router = router;
   }
